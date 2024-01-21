@@ -59,6 +59,8 @@ public void enterMemeberDeatils() throws InterruptedException
 	  logger.info("Hello");
 	
 Reporter.log("clicking on gender button ", true);
+Reporter.log("clicking on gender button ", true);
+Reporter.log("clicking on gender button ", true);
 home.clickOnMaleButton();
 Thread.sleep(1000);
 Reporter.log("clicking on next button ", true);
